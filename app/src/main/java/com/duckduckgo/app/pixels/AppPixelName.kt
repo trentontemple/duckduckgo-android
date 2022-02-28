@@ -265,6 +265,7 @@ enum class AppPixelName(override val pixelName: String) : Pixel.PixelName {
 
     WEBVIEW_FEATURE_SUPPORTED("m_webview_feature_supported"),
 
+    VOICE_SEARCH_AVAILABLE("m_voice_search_available"),
     VOICE_SEARCH_PRIVACY_DIALOG_ACCEPTED("m_voice_search_privacy_dialog_accepted"),
     VOICE_SEARCH_PRIVACY_DIALOG_REJECTED("m_voice_search_privacy_dialog_rejected"),
     VOICE_SEARCH_STARTED("m_voice_search_started"),
