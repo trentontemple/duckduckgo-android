@@ -1,4 +1,6 @@
 # DuckDuckGo Android
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fduckduckgo-android.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fduckduckgo-android?ref=badge_shield)
+
 
 Welcome to our android application. We are excited to engage the community in development, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -28,3 +30,6 @@ Contact us at https://duckduckgo.com/feedback if you have feedback, questions or
 
 ## License
 DuckDuckGo android is distributed under the Apache 2.0 [license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fduckduckgo-android.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fduckduckgo-android?ref=badge_large)
